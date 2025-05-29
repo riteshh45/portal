@@ -9,7 +9,6 @@ A multi-page responsive web application for browsing and applying to internship 
 - ✅ Responsive landing page with intro to the portal
 - ✅ Internship listings with search and filter functionality
 - ✅ Detailed internship information page
-- ✅ Application form with validation and submission simulation
 - ✅ Accessibility best practices 
 
 ---
@@ -21,3 +20,36 @@ A multi-page responsive web application for browsing and applying to internship 
 - **Tailwind CSS**
 
 ---
+
+## 🧩 Setup Instructions
+
+### 1. 📥 Clone the Repository
+```bash
+git clone https://github.com/your-username/internship-portal.git
+cd internship-portal
+```
+
+### 2. 📦 Install Dependencies
+```bash
+npm install
+```
+### 3. 📦 Start Development Server
+```bash
+npm run dev
+```
+
+## 📌 Pages Overview
+
+🔹 Landing Page
+Intro to the platform
+
+Navigation to listing page
+
+Optional: statistics or testimonials
+
+🔹 Internship Listings
+Displays a list of internships
+
+Filters (e.g., by location, type, company)
+
+
