@@ -8,7 +8,7 @@ import { getFirestore, collection, getDocs, addDoc , setDoc , updateDoc } from '
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDtKOlTfADXA0MH5Xf1paaTG3Xd49J16B4",
+  apiKey: "AIzaSyDtKOlTfADXA0MH5Xf1paaTBSD7G3Xd49J16B34",
   authDomain: "jobportal-7973f.firebaseapp.com",
   projectId: "jobportal-7973f",
   storageBucket: "jobportal-7973f.firebasestorage.app",
